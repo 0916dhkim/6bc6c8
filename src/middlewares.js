@@ -4,7 +4,7 @@ function notFound(req, res, next) {
   next(error);
 }
 
-console.log('test')
+console.log('test');
 
 /* eslint-disable no-unused-vars */
 function errorHandler(err, req, res, next) {
